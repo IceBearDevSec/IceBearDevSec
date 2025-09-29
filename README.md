@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IceBearDevSec
-- 👀 I’m interested in DevSecOps and Data
+- 👀 I’m interested in Software development, AI, and Infrastructure. 
 - 🌱 I’m currently learning Data Science, cloud, cybersecurity, and systems engineering
 - 💞️ I’m looking to collaborate on any open sourced project
 - 📫 How to reach me TBD
